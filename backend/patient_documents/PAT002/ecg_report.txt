@@ -1,0 +1,27 @@
+================================================================================
+VIGILOR CLINICAL CARDIOLOGY - 12-LEAD ECG & CLINICAL VITALS REPORT
+Patient ID: PAT-102          Name: Elena Rostova        Age: 62    Gender: Female
+Recording Date: 2026-08-27   Recorded By: Cardiology Suite A
+================================================================================
+CLINICAL VITALS:
+- Blood Pressure: 148/92 mmHg (Stage 2 Hypertension)
+- Heart Rate: 88 bpm
+- Respiratory Rate: 18 breaths/min
+- SpO2: 97% on ambient air
+- Body Temperature: 99.8 °F (37.7 °C)
+- BMI: 29.4 kg/m²
+
+ELECTROCARDIOGRAM (12-LEAD):
+- Rhythm: Normal Sinus Rhythm with occasional Premature Ventricular Contractions (PVCs)
+- Rate: 88 bpm
+- PR Interval: 164 ms
+- QRS Duration: 92 ms
+- QTc: 432 ms
+- Voltage: Left ventricular high voltage criteria met (Sokolow-Lyon index > 35 mm).
+- ST-T Segment: Mild strain pattern with 0.5mm ST depression and T-wave flattening in V5, V6, I, and aVL.
+
+CARDIOLOGIST IMPRESSION:
+1. Sinus rhythm with isolated unifocal PVCs.
+2. Voltage criteria and repolarization changes suggestive of Left Ventricular Hypertrophy (LVH).
+3. Correlate with underlying systemic hypertension.
+================================================================================

@@ -1,0 +1,36 @@
+================================================================================
+VIGILOR CLINICAL DIAGNOSTICS - HEMATOLOGY & BIOCHEMISTRY
+Patient ID: PAT-101          Name: Alex Carter          Age: 45    Gender: Male
+Date: 2026-08-28             Referring Physician: Dr. R. Henderson, MD
+================================================================================
+TEST NAME                    RESULT       REFERENCE INTERVAL    UNIT      STATUS
+--------------------------------------------------------------------------------
+Complete Blood Count (CBC):
+Hemoglobin                   14.5         13.8 - 17.2           g/dL      Normal
+RBC Count                    4.85         4.30 - 5.90           10^6/uL   Normal
+Hematocrit                   43.2         40.0 - 50.0           %         Normal
+WBC (Total Leucocyte Count)  6,800        4,500 - 11,000        /cumm     Normal
+Neutrophils                  58           40 - 70               %         Normal
+Lymphocytes                  32           20 - 40               %         Normal
+Monocytes                    6            2 - 8                 %         Normal
+Eosinophils                  3            1 - 4                 %         Normal
+Basophils                    1            0 - 2                 %         Normal
+Platelet Count               245,000      150,000 - 450,000     /cumm     Normal
+
+Comprehensive Metabolic Panel (CMP):
+Fasting Plasma Glucose       94           70 - 99               mg/dL     Normal
+Blood Urea Nitrogen (BUN)    14           7 - 20                mg/dL     Normal
+Serum Creatinine             0.92         0.70 - 1.30           mg/dL     Normal
+eGFR                         > 90         > 90                  mL/min    Normal
+Total Bilirubin              0.8          0.2 - 1.2             mg/dL     Normal
+SGOT / AST                   22           10 - 40               U/L       Normal
+SGPT / ALT                   26           7 - 56                U/L       Normal
+Total Serum Cholesterol      182          < 200                 mg/dL     Normal
+Triglycerides                135          < 150                 mg/dL     Normal
+HDL Cholesterol              48           > 40                  mg/dL     Normal
+LDL Cholesterol              107          < 100                 mg/dL     Borderline
+--------------------------------------------------------------------------------
+CLINICAL IMPRESSION:
+Hematological, hepatic, and renal profiles are within normal physiological limits.
+Mild borderline elevation in LDL cholesterol; routine dietary management advised.
+================================================================================

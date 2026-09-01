@@ -1,0 +1,24 @@
+================================================================================
+VIGILOR MEDICAL IMAGING - COMPUTED TOMOGRAPHY (CT) REPORT
+Patient ID: PAT-103          Name: David Kim            Age: 28    Gender: Male
+Study Date: 2026-08-29       Accession #: CT-2026-8943
+Modality: CT RIGHT KNEE (3D RECONSTRUCTION)
+================================================================================
+CLINICAL INDICATION:
+Acute sports injury (rotational pivot mechanism during football), joint instability, and swelling.
+
+TECHNIQUE:
+Volumetric non-contrast CT scanning of the right knee with 0.625 mm slice collimation
+and multiplanar 3D bone reconstructions.
+
+FINDINGS:
+- Osseous Structures: No cortical fracture line identified across the distal femur, proximal
+  tibia, or fibular head. Patella is normally situated within the trochlear groove.
+- Joint Space: Lateral and medial tibiofemoral joint spaces are maintained.
+- Effusion: Moderate hyperdense intra-articular joint effusion with distension of the suprapatellar bursa.
+- Soft Tissues: Swelling and edema across the anterolateral soft tissue planes.
+
+IMPRESSION:
+1. No radiopaque fracture or cortical disruption of the right knee.
+2. Moderate-to-large traumatic hemarthrosis / joint effusion. MRI recommended for ligamentous evaluation.
+================================================================================

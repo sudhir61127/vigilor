@@ -1,0 +1,19 @@
+{
+    "patient_id": "PAT-002",
+    "patient_name": "Elena Rostova",
+    "age": 62,
+    "gender": "Female",
+    "reports": {
+    "blood_report": "blood_report.txt",
+    "ct_report": "ct_report.txt",
+    "mri_report": "mri_report.txt",
+    "xray_report": "xray_report.txt",
+    "ecg_report": "ecg_report.txt"
+  },
+
+  "images": {
+    "ct_scan": "ct_scan.jpg",
+    "mri_scan": "mri_scan.jpg",
+    "xray_image": "xray_image.jpg"
+  }
+}

@@ -1,0 +1,26 @@
+================================================================================
+VIGILOR CLINICAL CARDIOLOGY - 12-LEAD ECG & CLINICAL VITALS REPORT
+Patient ID: PAT-103          Name: David Kim            Age: 28    Gender: Male
+Recording Date: 2026-08-29   Recorded By: Cardiology Suite B
+================================================================================
+CLINICAL VITALS:
+- Blood Pressure: 114/72 mmHg
+- Heart Rate: 56 bpm (Physiologic Bradycardia)
+- Respiratory Rate: 14 breaths/min
+- SpO2: 100% on ambient air
+- Body Temperature: 98.2 °F (36.8 °C)
+- BMI: 22.4 kg/m²
+
+ELECTROCARDIOGRAM (12-LEAD):
+- Rhythm: Sinus Bradycardia (Consistent with athletic conditioning)
+- Rate: 56 bpm
+- PR Interval: 156 ms
+- QRS Duration: 84 ms
+- QTc: 398 ms
+- ST-T Segment: Early repolarization pattern in V2-V4 (physiologic variant in young athletes).
+  No ischemic ST depression.
+
+CARDIOLOGIST IMPRESSION:
+1. Sinus bradycardia with benign early repolarization.
+2. Normal electrocardiogram for an athletic adult.
+================================================================================

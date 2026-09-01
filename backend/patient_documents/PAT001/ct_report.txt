@@ -1,0 +1,32 @@
+================================================================================
+VIGILOR MEDICAL IMAGING - COMPUTED TOMOGRAPHY (CT) REPORT
+Patient ID: PAT-101          Name: Alex Carter          Age: 45    Gender: Male
+Study Date: 2026-08-28       Accession #: CT-2026-8941
+Modality: CT CHEST, ABDOMEN & PELVIS (WITH IV CONTRAST)
+================================================================================
+CLINICAL INDICATION:
+Routine comprehensive health checkup and vague right upper quadrant discomfort.
+
+TECHNIQUE:
+Axial CT imaging from thoracic inlet through pelvic brim following intravenous
+administration of 85 mL Omnipaque-350 contrast medium with multiplanar reconstructions.
+
+FINDINGS:
+THORAX:
+- Lungs: Clear. No focal airspace consolidation, pleural effusion, or pneumothorax.
+- Mediastinum & Hila: Normal contour. No enlarged mediastinal lymph nodes.
+- Heart & Great Vessels: Normal cardiac size. Thoracic aorta intact.
+
+ABDOMEN & PELVIS:
+- Liver: Normal attenuation, size, and contour. No focal hepatic lesions identified.
+- Gallbladder & Biliary Tree: Gallbladder is thin-walled without radiopaque calculus.
+- Spleen, Pancreas, Adrenals: Normal parenchymal enhancement and architecture.
+- Kidneys: Bilateral prompt nephrogram excretion. No hydronephrosis, calculi, or masses.
+- Bowel & Mesentery: Normal caliber of small and large bowel loops. No free peritoneal fluid.
+- Pelvic Organs: Urinary bladder well-distended with smooth margins. Prostate unremarkable.
+- Osseous Structures: No destructive lytic or blastic osseous lesions.
+
+IMPRESSION:
+1. No acute cardiopulmonary, abdominopelvic, or retroperitoneal abnormality.
+2. Normal multi-phase CT scan of chest, abdomen, and pelvis.
+================================================================================

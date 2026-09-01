@@ -1,0 +1,26 @@
+================================================================================
+VIGILOR MEDICAL IMAGING - COMPUTED TOMOGRAPHY (CT) REPORT
+Patient ID: PAT-102          Name: Elena Rostova        Age: 62    Gender: Female
+Study Date: 2026-08-27       Accession #: CT-2026-8942
+Modality: CT ABDOMEN & PELVIS WITH IV AND ORAL CONTRAST
+================================================================================
+CLINICAL INDICATION:
+Severe left lower quadrant abdominal pain, localized tenderness, and low-grade pyrexia.
+
+TECHNIQUE:
+Contiguous 3mm axial Helical CT sections obtained through the abdomen and pelvis
+following IV and oral contrast administration.
+
+FINDINGS:
+- Gastrointestinal Tract: Segmental, circumferential wall thickening (up to 7 mm) involving
+  the mid and distal sigmoid colon over a 6.5 cm segment. Multiple colonic diverticula present.
+  Marked inflammatory stranding of adjacent pericolic mesenteric fat.
+- Abscess / Perforation: No localized loculated fluid collection, abscess, or free extraluminal gas.
+- Solid Viscera: Liver shows mild diffuse steatosis. Gallbladder, pancreas, adrenals normal.
+- Urinary Tract: Normal bilateral kidney parenchyma without obstructive uropathy.
+- Pelvis: Uterus and bilateral adnexal regions appear senile/atrophic without discrete mass.
+
+IMPRESSION:
+1. Acute uncomplicated diverticulitis of the sigmoid colon (Hinchey Stage Ia).
+2. Diffuse mild hepatic steatosis.
+================================================================================

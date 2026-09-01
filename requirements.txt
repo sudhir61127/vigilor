@@ -1,12 +1,4 @@
-fastapi
-uvicorn
-python-dotenv
-pymongo
-pydantic
-langgraph
-langchain
-langchain-openai
-langchain-google-genai
-faiss-cpu
-sentence-transformers
-pypdf
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+pydantic>=2.7,<3.0
+python-dotenv>=1.0,<2.0

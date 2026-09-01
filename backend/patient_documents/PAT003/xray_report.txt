@@ -1,0 +1,19 @@
+================================================================================
+VIGILOR MEDICAL IMAGING - DIGITAL RADIOGRAPHY (X-RAY) REPORT
+Patient ID: PAT-103          Name: David Kim            Age: 28    Gender: Male
+Study Date: 2026-08-29       Accession #: XR-2026-5512
+Modality: DIGITAL X-RAY RIGHT KNEE (WEIGHT-BEARING AP & LATERAL VIEWS)
+================================================================================
+CLINICAL INDICATION:
+Acute knee trauma; exclude fracture / dislocation.
+
+FINDINGS:
+- Alignment: Anatomical alignment of the femorotibial joint without subluxation.
+- Bones: Intact cortical margins. No Segond fracture or avulsion fragment identified.
+- Joint Space: Normal medial and lateral compartment joint spacing.
+- Soft Tissues: Marked fullness and radiodensity in the suprapatellar pouch indicating joint effusion.
+
+IMPRESSION:
+1. No acute bony fracture or dislocation.
+2. Pronounced traumatic joint effusion.
+================================================================================

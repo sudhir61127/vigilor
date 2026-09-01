@@ -1,0 +1,21 @@
+================================================================================
+VIGILOR MEDICAL IMAGING - DIGITAL RADIOGRAPHY (X-RAY) REPORT
+Patient ID: PAT-101          Name: Alex Carter          Age: 45    Gender: Male
+Study Date: 2026-08-28       Accession #: XR-2026-5510
+Modality: CHEST X-RAY (POSTEROANTERIOR - PA VIEW)
+================================================================================
+CLINICAL INDICATION:
+Pre-procedural screening / Routine baseline evaluation.
+
+FINDINGS:
+- Lungs: Both lung fields are clear and well-expanded. No focal consolidations, active
+  parenchymal infiltration, interstitial congestion, or cavitary lesions.
+- Pleura: Bilateral costophrenic and cardiophrenic angles are sharp and clear.
+- Cardiac Silhouette: Cardiothoracic ratio is within normal limits (< 0.50).
+- Mediastinum & Hila: Trachea is midline. Hilar shadows and mediastinal contours are normal.
+- Bones & Soft Tissues: Thoracic cage ribs, clavicles, and visual soft tissues are intact.
+
+IMPRESSION:
+1. Normal chest radiograph (PA View).
+2. No active cardiopulmonary disease detected.
+================================================================================

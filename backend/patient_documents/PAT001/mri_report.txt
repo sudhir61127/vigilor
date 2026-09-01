@@ -1,0 +1,25 @@
+================================================================================
+VIGILOR MEDICAL IMAGING - MAGNETIC RESONANCE IMAGING (MRI) REPORT
+Patient ID: PAT-101          Name: Alex Carter          Age: 45    Gender: Male
+Study Date: 2026-08-29       Accession #: MRI-2026-1044
+Modality: MRI BRAIN WITHOUT CONTRAST
+================================================================================
+CLINICAL INDICATION:
+Intermittent tension-type headaches and baseline evaluation.
+
+TECHNIQUE:
+Multi-sequence multi-planar MRI of the brain performed on a 3.0 Tesla scanner including
+Axial T1-weighted, T2-weighted, FLAIR, Diffusion-Weighted Imaging (DWI/ADC), and Sagittal T1.
+
+FINDINGS:
+- Brain Parenchyma: Gray-white matter differentiation is preserved. No acute territorial
+  infarction on DWI/ADC sequences. No intracranial hemorrhage or mass effect.
+- Ventricles & Cisterns: Ventricular caliber and basal cisterns are age-appropriate and symmetric.
+- Extra-Axial Spaces: No subdural or epidural fluid collections.
+- Vasculature: Major intracranial vascular flow voids are preserved at the skull base.
+- Sella & Paranasal Sinuses: Pituitary gland is normal. Paranasal sinuses and mastoid air cells clear.
+
+IMPRESSION:
+1. Normal MRI brain study without evidence of acute stroke, mass lesion, or midline shift.
+2. Unremarkable intracerebral parenchymal architecture.
+================================================================================

@@ -1,0 +1,27 @@
+================================================================================
+VIGILOR CLINICAL DIAGNOSTICS - HEMATOLOGY & BIOCHEMISTRY
+Patient ID: PAT-103          Name: David Kim            Age: 28    Gender: Male
+Date: 2026-08-29             Referring Physician: Dr. M. Thorne, MD (Orthopedics)
+================================================================================
+TEST NAME                    RESULT       REFERENCE INTERVAL    UNIT      STATUS
+--------------------------------------------------------------------------------
+Complete Blood Count (CBC):
+Hemoglobin                   15.8         13.8 - 17.2           g/dL      Normal
+RBC Count                    5.20         4.30 - 5.90           10^6/uL   Normal
+Hematocrit                   46.5         40.0 - 50.0           %         Normal
+WBC (Total Leucocyte Count)  7,200        4,500 - 11,000        /cumm     Normal
+Platelet Count               220,000      150,000 - 450,000     /cumm     Normal
+
+Pre-Operative Coagulation & Chemistry:
+Prothrombin Time (PT)        11.8         11.0 - 13.5           sec       Normal
+INR                          1.02         0.85 - 1.15                     Normal
+aPTT                         29.5         25.0 - 35.0           sec       Normal
+Serum Sodium                 140          135 - 145             mEq/L     Normal
+Serum Potassium              4.2          3.5 - 5.0             mEq/L     Normal
+Serum Chloride               101          98 - 107              mEq/L     Normal
+Serum Creatinine             0.88         0.70 - 1.30           mg/dL     Normal
+--------------------------------------------------------------------------------
+CLINICAL IMPRESSION:
+Normal pre-operative coagulation profile, basic metabolic parameters, and hematology.
+No contraindications for elective surgical intervention from a laboratory standpoint.
+================================================================================

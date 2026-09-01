@@ -1,15 +1,27 @@
 # VIGIL-OR
 
-AI-powered, voice-first surgical co-pilot for operating-room workflows.
+An AI-powered clinical decision support assistant for healthcare professionals.
 
-## Architecture
-
-- React frontend
+## Features
+- Patient record retrieval
+- RAG-based report retrieval
+- MongoDB patient database
 - FastAPI backend
-- LLM
-- LangGraph
+- AI agent (under development)
+
+## Tech Stack
+- FastAPI
 - MongoDB
-- RAG + FAISS
-- Simulated multi-parameter monitor
-- Speech-to-text
-- Text-to-speech
+- FAISS
+- LangChain
+- Python
+
+## Project Structure
+backend/
+frontend/
+patient_documents/
+patient_indexes/
+
+## Team
+- Member 1 – AI Agent & APIs
+- Member 2 – RAG & Database
