@@ -1,0 +1,25 @@
+================================================================================
+VIGILOR MEDICAL IMAGING - MAGNETIC RESONANCE IMAGING (MRI) REPORT
+Patient ID: PAT-102          Name: Elena Rostova        Age: 62    Gender: Female
+Study Date: 2026-08-28       Accession #: MRI-2026-1045
+Modality: MRI LUMBAR SPINE (L-SPINE) WITHOUT CONTRAST
+================================================================================
+CLINICAL INDICATION:
+Chronic low back pain radiating to the left lateral thigh; paresthesia in L5 distribution.
+
+TECHNIQUE:
+Sagittal and axial T1, T2, and STIR weighted MRI images of the lumbosacral spine.
+
+FINDINGS:
+- Alignment: Normal lumbar lordosis preserved. No listhesis.
+- L1-L2 through L3-L4: Preserved disc height and hydration. Neural foramina patent.
+- L4-L5: Moderate disc desiccation with disc height loss. Broad-based posterior disc bulge
+  with left foraminal extension causing mild thecal sac compression and moderate left
+  neuroforaminal narrowing abutting the exiting left L4 nerve root.
+- L5-S1: Mild circumferential disc bulge without canal stenosis.
+- Spinal Cord & Conus: Conus medullaris terminates normally at L1 level.
+
+IMPRESSION:
+1. L4-L5 degenerative disc disease with left paracentral/foraminal disc herniation causing
+   left neural foraminal stenosis and left L4/L5 radicular compromise.
+================================================================================

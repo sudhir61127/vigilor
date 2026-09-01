@@ -1,0 +1,21 @@
+================================================================================
+VIGILOR MEDICAL IMAGING - DIGITAL RADIOGRAPHY (X-RAY) REPORT
+Patient ID: PAT-102          Name: Elena Rostova        Age: 62    Gender: Female
+Study Date: 2026-08-27       Accession #: XR-2026-5511
+Modality: CHEST X-RAY (ANTEROPOSTERIOR - AP PORTABLE VIEW)
+================================================================================
+CLINICAL INDICATION:
+Pre-admission screening and mild exertional dyspnea.
+
+FINDINGS:
+- Lungs: Symmetrical lung inflation. Subtle plate-like atelectasis noted at the left lung base.
+  No dense lobar consolidation, overt pneumothorax, or large pleural effusion.
+- Pleura: Minor blunting of the left posterior costophrenic sulcus.
+- Heart & Mediastinum: Transverse cardiac diameter is mildly enlarged (CTR ~ 0.54), consistent
+  with borderline cardiomegaly. Prominence of the aortic arch.
+- Bones: Degenerative spondylotic osteophytes observed in the mid-thoracic spine.
+
+IMPRESSION:
+1. Mild cardiomegaly and tortuous thoracic aorta.
+2. Left basal subsegmental atelectasis; no acute pulmonary edema or pneumonia.
+================================================================================

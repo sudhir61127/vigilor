@@ -1,0 +1,29 @@
+================================================================================
+VIGILOR MEDICAL IMAGING - MAGNETIC RESONANCE IMAGING (MRI) REPORT
+Patient ID: PAT-103          Name: David Kim            Age: 28    Gender: Male
+Study Date: 2026-08-29       Accession #: MRI-2026-1046
+Modality: MRI RIGHT KNEE JOINT (HIGH RESOLUTION)
+================================================================================
+CLINICAL INDICATION:
+Suspected internal derangement following acute deceleration pivot knee trauma.
+
+TECHNIQUE:
+Multiplanar PD, T1, T2 fat-saturated, and sagittal 3D-FIESTA sequences of the right knee.
+
+FINDINGS:
+- Anterior Cruciate Ligament (ACL): Discontinuity of mid-substance fibers with diffuse
+  hyperintensity on T2/PD FS and abnormal horizontal orientation.
+- Posterior Cruciate Ligament (PCL): Intact with normal signal intensity and morphology.
+- Medial Collateral Ligament (MCL): Grade I sprain with periligamentous high signal; fibers continuous.
+- Lateral Collateral Ligament (LCL): Intact.
+- Menisci: Complex vertical tear involving the posterior horn of the lateral meniscus.
+  Medial meniscus intact.
+- Bone Contusions: Classic bone bruise pattern with kissing subchondral bone marrow edema
+  involving the posterior lateral tibial plateau and mid-lateral femoral condyle.
+- Joint Space: Marked suprapatellar joint effusion.
+
+IMPRESSION:
+1. Complete mid-substance tear of the Anterior Cruciate Ligament (ACL).
+2. Complex tear of the posterior horn of the lateral meniscus.
+3. Grade I MCL sprain and pivot-shift bone marrow contusions.
+================================================================================

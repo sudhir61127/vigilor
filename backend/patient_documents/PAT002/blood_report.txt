@@ -1,0 +1,31 @@
+================================================================================
+VIGILOR CLINICAL DIAGNOSTICS - HEMATOLOGY & BIOCHEMISTRY
+Patient ID: PAT-102          Name: Elena Rostova        Age: 62    Gender: Female
+Date: 2026-08-27             Referring Physician: Dr. K. Srinivasan, MD
+================================================================================
+TEST NAME                    RESULT       REFERENCE INTERVAL    UNIT      STATUS
+--------------------------------------------------------------------------------
+Complete Blood Count (CBC):
+Hemoglobin                   10.6         12.1 - 15.1           g/dL      LOW
+RBC Count                    3.65         4.00 - 5.20           10^6/uL   LOW
+Hematocrit                   32.0         36.0 - 46.0           %         LOW
+WBC (Total Leucocyte Count)  13,400       4,500 - 11,000        /cumm     ELEVATED
+Neutrophils                  78           40 - 70               %         ELEVATED
+Lymphocytes                  16           20 - 40               %         LOW
+Monocytes                    4            2 - 8                 %         Normal
+Eosinophils                  2            1 - 4                 %         Normal
+Platelet Count               390,000      150,000 - 450,000     /cumm     Normal
+ESR (Erythrocyte Sed Rate)   44           0 - 20                mm/hr     ELEVATED
+
+Inflammatory & Glycemic Panel:
+C-Reactive Protein (CRP)     22.4         < 3.0                 mg/L      HIGH
+Fasting Plasma Glucose       142          70 - 99               mg/dL     ELEVATED
+HbA1c                        7.6          < 5.7                 %         ELEVATED
+Serum Creatinine             1.12         0.50 - 1.10           mg/dL     Borderline
+eGFR                         56           > 60                  mL/min    Mild Reduced
+--------------------------------------------------------------------------------
+CLINICAL IMPRESSION:
+1. Moderate normocytic normochromic anemia with active neutrophilic leukocytosis.
+2. Significantly elevated systemic inflammatory markers (CRP, ESR).
+3. Inadequately controlled Type-2 Diabetes Mellitus with mild renal functional impairment.
+================================================================================

@@ -1,0 +1,26 @@
+================================================================================
+VIGILOR CLINICAL CARDIOLOGY - 12-LEAD ECG & CLINICAL VITALS REPORT
+Patient ID: PAT-101          Name: Alex Carter          Age: 45    Gender: Male
+Recording Date: 2026-08-28   Recorded By: Cardiology Suite B
+================================================================================
+CLINICAL VITALS:
+- Blood Pressure: 118/76 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 breaths/min
+- SpO2: 99% on ambient air
+- Body Temperature: 98.4 °F (36.9 °C)
+- BMI: 23.8 kg/m²
+
+ELECTROCARDIOGRAM (12-LEAD):
+- Rhythm: Regular Sinus Rhythm
+- Rate: 72 bpm
+- PR Interval: 148 ms (Normal: 120 - 200 ms)
+- QRS Duration: 86 ms (Normal: 60 - 100 ms)
+- QT / QTc: 390 / 418 ms (Normal: < 440 ms)
+- P-Wave Axis: +54°
+- QRS Axis: +48° (Normal Axis)
+- ST-T Segment: Normal baseline; no pathological ST elevation, depression, or T-wave inversion.
+
+CARDIOLOGIST IMPRESSION:
+Normal 12-Lead Electrocardiogram. No signs of ischemia, arrhythmia, or chamber hypertrophy.
+================================================================================
