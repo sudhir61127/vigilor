@@ -21,19 +21,37 @@ def understand_intent(state: AgentState):
 
     user_input = state["user_input"].lower()
 
-    if "patient" in user_input or "patient id" in user_input:
-        intent = "patient"
+    # Reports / medical documents → RAG
+    if any(word in user_input for word in [
+        "mri",
+        "ct scan",
+        "ct report",
+        "mri report",
+        "blood report",
+        "blood test",
+        "lab report",
+        "medical report",
+        "scan report",
+        "report",
+        "document"
+    ]):
+        intent = "rag"
 
+    # Monitoring / vitals
     elif any(word in user_input for word in [
         "monitor",
         "vital",
         "heart rate",
         "blood pressure",
         "spo2",
-        "oxygen"
+        "oxygen",
+        "respiratory rate",
+        "temperature",
+        "ecg"
     ]):
         intent = "monitoring"
 
+    # Surgical checklist
     elif any(word in user_input for word in [
         "checklist",
         "check list",
@@ -41,6 +59,11 @@ def understand_intent(state: AgentState):
     ]):
         intent = "checklist"
 
+    # Patient details
+    elif "patient" in user_input or "patient id" in user_input:
+        intent = "patient"
+
+    # General medical questions → RAG
     elif any(word in user_input for word in [
         "precaution",
         "complication",
@@ -58,7 +81,6 @@ def understand_intent(state: AgentState):
     return {
         "intent": intent
     }
-
 def route_intent(state: AgentState):
     intent = state["intent"]
 
